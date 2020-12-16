@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: young
+Build-Jdk: 15
+Implementation-Title: MapsApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tts
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/MapsApp
+Created-By: Maven Integration for Eclipse
+
